@@ -629,11 +629,11 @@ tenacity==6.1.0
 tensorboard==2.2.2
 tensorboard-plugin-wit==1.7.0
 tensorboardX==2.1
-tensorflow @ file:///tmp/tensorflow_cpu/tensorflow-2.2.0-cp37-cp37m-linux_x86_64.whl
-tensorflow-addons @ file:///tmp/tfa_cpu/tensorflow_addons-0.10.0-cp37-cp37m-linux_x86_64.whl
+tensorflow
+tensorflow-addons
 tensorflow-datasets==3.2.1
 tensorflow-estimator==2.2.0
-tensorflow-gcs-config @ file:///tmp/tensorflow_gcs_config/tensorflow_gcs_config-2.1.7-py3-none-any.whl
+tensorflow-gcs-config
 tensorflow-hub==0.8.0
 tensorflow-metadata==0.22.2
 tensorflow-probability==0.10.1
