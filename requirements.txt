@@ -12,7 +12,6 @@ imageio==2.2.0
 itsdangerous==0.24
 Jinja2==2.10
 Markdown==2.6.9
-MarkupSafe==1.0
 matplotlib==2.1.0
 networkx==2.0
 numpy==1.13.3
